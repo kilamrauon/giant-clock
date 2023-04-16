@@ -27,3 +27,7 @@ Le troisème bouton modifie la luminosité et le quatrième la couleur (avec un 
 de couleur régulier si on sélectionne la couleur 6)
 Les segments de led peuvent associés avec des connecteurs specifiques comme sur la photo 1chiffre.jpg
 ou être soudés. Chaque méthode a ses avantages et ses inconvénients. 
+
+D4 Led Pin
+A0 KC11B04 analogue output
+rtc ds1307 : D1 scl d2 sca
