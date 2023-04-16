@@ -9,7 +9,9 @@ as well as the size of the seconds separator, don't forget to modify the NUM_LED
 I do not use the wifi to seek the hour, the modification of the hour is done with the first button,
 the modification of the minutes is done with the second button.
 The third button changes the brightness and the fourth the colour (with a regular change of colour if you select
-(with a regular change of colour if colour 6 is selected)
+(with a regular change of colour if colour 6 is selected).
+The LED segments can be associated with specific connectors as shown in photo 1chiffre.jpg
+or be soldered. Each method has its advantages and disadvantages. 
 
 Une horloge géante à base de wemos mini d1, un module horloge temps réél ds1302, 
 d'un mini clavier KC11B04 (sortie analogique, il faut vérifier ce que renvoie 
@@ -23,4 +25,5 @@ Je n'utilise pas le wifi pour chercher l'heure, la modification  de l'heure se f
 la modification  des minutes se fait avec le second bouton.
 Le troisème bouton modifie la luminosité et le quatrième la couleur (avec un changement
 de couleur régulier si on sélectionne la couleur 6)
-
+Les segments de led peuvent associés avec des connecteurs specifiques comme sur la photo 1chiffre.jpg
+ou être soudés. Chaque méthode a ses avantages et ses inconvénients. 
