@@ -1,4 +1,4 @@
-A giant clock based on a wemos mini d1, a real time clock module ds1302, 
+A giant clock (30x80cm - 12x31.5 inches) based on a wemos mini d1, a real time clock module ds1302, 
 a mini keyboard KC11B04 (analogue output, it is necessary to check what each button returns
 and adapt the code, to be connected to the 3.3 v output, otherwise the values
 values may be wrong), and ws2812b leds (depending on the size,
@@ -13,7 +13,7 @@ The third button changes the brightness and the fourth the colour (with a regula
 The LED segments can be associated with specific connectors as shown in photo 1chiffre.jpg
 or be soldered. Each method has its advantages and disadvantages. 
 
-Une horloge géante à base de wemos mini d1, un module horloge temps réél ds1302, 
+Une horloge géante (30x80cm - 12x31.5 inches) à base de wemos mini d1, un module horloge temps réél ds1302, 
 d'un mini clavier KC11B04 (sortie analogique, il faut vérifier ce que renvoie 
 chaque bouton et adapter le code, à brancher sur la sortie 3.3 v sinon les valeurs
 renvoyées peuvent être erronées), et de leds ws2812b (en fonction de la taille,
