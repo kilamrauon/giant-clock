@@ -45,11 +45,11 @@ CRGB leds[NUM_LEDS];
 //#define SMTP_PORT 465
 
 /* The sign in credentials */
-//#define AUTHOR_EMAIL "wifi.m5stickc@gmail.com"
+//#define AUTHOR_EMAIL "xxxxxxxxxxxxxxxxxx"
 //#define AUTHOR_PASSWORD "m5stickc"
 
 /* Recipient's email*/
-//#define RECIPIENT_EMAIL "malik.nouar@laposte.net"
+//#define RECIPIENT_EMAIL "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 /* The SMTP Session object used for Email sending */
 //SMTPSession smtp;
