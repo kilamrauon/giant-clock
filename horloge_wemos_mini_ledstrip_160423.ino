@@ -46,7 +46,7 @@ CRGB leds[NUM_LEDS];
 
 /* The sign in credentials */
 //#define AUTHOR_EMAIL "xxxxxxxxxxxxxxxxxx"
-//#define AUTHOR_PASSWORD "m5stickc"
+//#define AUTHOR_PASSWORD "xxxxx"
 
 /* Recipient's email*/
 //#define RECIPIENT_EMAIL "xxxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -286,8 +286,8 @@ void affiche_chiffre(int chiffre, int position_affichage, int separateur)
     affiche_segment7(position_affichage, separateur);
 
   }
+  
   if (chiffre == 6)
-
   {
     affiche_segment1(position_affichage, separateur);
     affiche_segment2(position_affichage, separateur);
@@ -296,11 +296,9 @@ void affiche_chiffre(int chiffre, int position_affichage, int separateur)
     affiche_segment5(position_affichage, separateur);
     affiche_segment6(position_affichage, separateur);
     affiche_segment7(position_affichage, separateur);
-
   }
 
   if (chiffre == 7)
-
   {
     // affiche_segment1(position_affichage, separateur);
     affiche_segment2(position_affichage, separateur);
