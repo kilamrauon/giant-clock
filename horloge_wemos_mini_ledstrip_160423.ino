@@ -68,12 +68,12 @@ String ssid, password;
 
 
 //int decalage = 2; // la valeur dépend de votre fuseau horaire. Essayez 2 pour la France.
-const int delaiDemande = 10; // nombre de secondes entre deux demandes consécutives au serveur NTP
+/*const int delaiDemande = 10; // nombre de secondes entre deux demandes consécutives au serveur NTP
 
 unsigned long derniereDemande = millis(); // moment de la plus récente demande au serveur NTP
 unsigned long derniereMaJ = millis(); // moment de la plus récente mise à Jour de l'affichage de l'heure
 time_t maintenant;
-struct tm * timeinfo;
+struct tm * timeinfo;*/
 
 int bouton4 = 1024, bouton3 = 885, bouton2 = 662, bouton1 = 448;
 
