@@ -8,7 +8,7 @@ as well as the size of the seconds separator, don't forget to modify the NUM_LED
 (it is possible to change the program so that this is done automatically).
 I do not use the wifi to check time, the modification of the hour is done with the first button,
 the modification of the minutes is done with the second button.
-The third button changes the brightness and the fourth the colour (with a regular change of colour if you select
+The third button changes the brightness and the fourth the colour 
 (with a regular change of colour if colour 6 is selected).
 The LED segments can be associated with specific connectors as shown in photo 1chiffre.jpg
 or be soldered. Each method has its pros and cons. 
