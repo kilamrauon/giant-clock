@@ -6,12 +6,12 @@ I chose segments of 6 leds and the seconds are displayed by 4 leds inserted
 between the hours and minutes). The size of the segments is contained in a variable
 as well as the size of the seconds separator, don't forget to modify the NUM_LEDS
 (it is possible to change the program so that this is done automatically).
-I do not use the wifi to seek the hour, the modification of the hour is done with the first button,
+I do not use the wifi to check time, the modification of the hour is done with the first button,
 the modification of the minutes is done with the second button.
 The third button changes the brightness and the fourth the colour (with a regular change of colour if you select
 (with a regular change of colour if colour 6 is selected).
 The LED segments can be associated with specific connectors as shown in photo 1chiffre.jpg
-or be soldered. Each method has its advantages and disadvantages. 
+or be soldered. Each method has its pros and cons. 
 
 Une horloge géante (30x80cm - 12x31.5 inches) à base de wemos mini d1, un module horloge temps réél ds1302, 
 d'un mini clavier KC11B04 (sortie analogique, il faut vérifier ce que renvoie 
